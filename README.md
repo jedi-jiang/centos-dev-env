@@ -1,1 +1,1 @@
-# centos-nginx-php-fpm
+# centos-dev-env
